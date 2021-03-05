@@ -1,10 +1,5 @@
 # dyscalculia
 
-vuex on store kaustas all
-kasutada shallow mounti
-
-
-
 ## Project setup
 ```
 npm install
